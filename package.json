@@ -1,0 +1,37 @@
+{
+  "name": "regl-stereo",
+  "version": "1.0.0",
+  "description": "Basic stereo renderer for regl",
+  "main": "stereo.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "gl-mat4": "^1.1.4"
+  },
+  "devDependencies": {
+    "angle-normals": "^1.0.0",
+    "bunny": "^1.0.1",
+    "regl": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikolalysenko/regl-stereo.git"
+  },
+  "keywords": [
+    "stereo",
+    "regl",
+    "render",
+    "graphics",
+    "webgl"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/regl-stereo/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/regl-stereo#readme"
+}
